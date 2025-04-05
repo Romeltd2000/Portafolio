@@ -5,8 +5,6 @@
     <div class="text-infome"><span>{{ description }}</span></div>
     <div class="button-list">
         <j-button :text="'Portafolio'" :color="'j-primary'" @click="goToProyects"/>
-        <a :href="links.cv" target="_blank"><j-button :text="'CV'"/></a>
-        <a :href="links.matriz" target="_blank"><j-button :text="'Matriz de Competencia'" :color="'j-success'"/></a>
     </div>
   </div>
 </template>

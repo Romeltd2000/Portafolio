@@ -6,7 +6,7 @@ export default [
     img: 'https://cloudfront-us-east-1.images.arcpublishing.com/infobae/O4OJBW4HT5ETHLCFM6X2XU5EQQ.jpg',
     links: {
       github: '',
-      web: 'https://docs.google.com/document/d/1qKAdAX441PyQQl-hnAyZr7VY_7rjHHLV/edit?usp=share_link&ouid=100265047572603070889&rtpof=true&sd=true'
+      web: ''
     }
   },
   {
@@ -16,7 +16,7 @@ export default [
     img: 'https://rinconpsicologia.com/wp-content/uploads/2021/07/pensamiento-critico-1024x538.jpg',
     links: {
       github: '',
-      web: 'https://docs.google.com/document/d/17TFKQpK6H8OVnrpa9qT-u0q4ZxZYeiG5/edit?usp=share_link&ouid=100265047572603070889&rtpof=true&sd=true'
+      web: ''
     }
   },
   {
@@ -26,7 +26,7 @@ export default [
     img: 'http://buenasnuevas.fm/wp-content/uploads/2022/03/61ae859b9679e33903c7fd25_Que-es-la-comunicacion-efectiva-simla.png',
     links: {
       github: '',
-      web: 'https://drive.google.com/file/d/1el8Kge9NRR1RxckBg_Y_A_KHi3fOLrLQ/view?usp=share_link'
+      web: ''
     }
   },
   {
@@ -36,7 +36,7 @@ export default [
     img: 'https://capitalhumano.emol.com/wp-content/uploads/2017/09/idea-made-in-chile-840x400.jpg',
     links: {
       github: '',
-      web: 'https://drive.google.com/file/d/1el8Kge9NRR1RxckBg_Y_A_KHi3fOLrLQ/view?usp=share_link'
+      web: ''
     }
   },
   {
@@ -46,7 +46,7 @@ export default [
     img: 'https://web-static.wrike.com/blog/content/uploads/2017/03/tecnicas-consejos-resolucion-problemas.jpg?av=ad62e6dea2ae256b24400f3d2aaf19c5',
     links: {
       github: '',
-      web: 'https://docs.google.com/document/d/17TFKQpK6H8OVnrpa9qT-u0q4ZxZYeiG5/edit?usp=share_link&ouid=100265047572603070889&rtpof=true&sd=true'
+      web: ''
     }
   }
 ]
