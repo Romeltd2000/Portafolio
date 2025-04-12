@@ -11,11 +11,11 @@
           </div>
           <div class="contact-item">
             <h3>Telefono</h3>
-            <p>997183519</p>
+            <p>+51 997183519</p>
           </div>
           <div class="contact-item">
             <h3>Dirección</h3>
-            <p>Jr. José Galvez 767 Barranca - Lima</p>
+            <p>Jr. José Galvez 767 - Barranca - Lima</p>
           </div>
           <div class="contact-item">
             <h3> </h3>
