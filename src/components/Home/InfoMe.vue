@@ -16,7 +16,7 @@ export default {
   name: 'InfoMe',
   data () {
     return {
-      name: 'Romel Torres Díaz',
+      name: 'Romel Anthony Torres Díaz',
       title: 'System Engineer',
       description: 'Soy un profesional en formación en Ingeniería de Sistemas e Informática, complementado con estudios en análisis de datos, logística internacional y diseño gráfico. Mi enfoque combina la automatización de procesos a través de Excel Avanzado, Macros y VBA, con habilidades en Data Analytics con Power BI y una experiencia creativa en ilustración digital.',
       links: {
